@@ -8,4 +8,37 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Village Scene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Cuartel.unity
+    guid: 4b10115199bd1de488285eccd0cb236e
+  - enabled: 1
+    path: Assets/Scenes/Casa1.unity
+    guid: f67eea600fa48e14f98cba896566cde3
+  - enabled: 1
+    path: Assets/Scenes/Casa2.unity
+    guid: 777d435e09a84df4e832d29e65188733
+  - enabled: 1
+    path: Assets/Scenes/Casa3.unity
+    guid: 88501140fb6cec84b910b3821eb76e1f
+  - enabled: 1
+    path: Assets/Scenes/Casa4.unity
+    guid: a4e37f3f114ca8f44a9d08b6221e7b94
+  - enabled: 1
+    path: Assets/Scenes/Casa5.unity
+    guid: b8ab4485a950e124ea9851d5716a9b4e
+  - enabled: 1
+    path: Assets/Scenes/Casa6.unity
+    guid: 8d6ffe4637dae674a98859fb0d0fe5b6
+  - enabled: 1
+    path: Assets/Scenes/Casa7.unity
+    guid: bb68da04656e11540ab16bbae1bdd31e
+  - enabled: 1
+    path: Assets/Scenes/Casa8.unity
+    guid: a3ccbfc3db32e204b9bfbe72bce724b1
+  - enabled: 1
+    path: Assets/Scenes/Granja.unity
+    guid: 8ffd124d3110c25429c821a3f29ca477
+  - enabled: 1
+    path: Assets/Scenes/Restaurante.unity
+    guid: d1b4fac76bac4ca468ad94eebae031a5
   m_configObjects: {}

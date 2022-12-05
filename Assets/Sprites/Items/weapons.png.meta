@@ -117,15 +117,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: weapons_0
+      name: sword1
       rect:
         serializedVersion: 2
         x: 0
         y: 21
         width: 4
         height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -138,15 +138,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: weapons_1
+      name: sword2
       rect:
         serializedVersion: 2
         x: 5
         y: 21
         width: 4
         height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -159,15 +159,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: weapons_2
+      name: sword3
       rect:
         serializedVersion: 2
         x: 10
         y: 21
         width: 4
         height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -180,7 +180,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: weapons_3
+      name: shield2
       rect:
         serializedVersion: 2
         x: 17
@@ -188,7 +188,7 @@ TextureImporter:
         width: 7
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -201,7 +201,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: weapons_4
+      name: shield3
       rect:
         serializedVersion: 2
         x: 25
@@ -209,7 +209,7 @@ TextureImporter:
         width: 7
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -222,15 +222,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: weapons_5
+      name: knife1
       rect:
         serializedVersion: 2
         x: 0
         y: 13
         width: 4
         height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -243,15 +243,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: weapons_6
+      name: knife2
       rect:
         serializedVersion: 2
         x: 5
         y: 13
         width: 4
         height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -264,15 +264,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: weapons_7
+      name: knife3
       rect:
         serializedVersion: 2
         x: 10
         y: 13
         width: 4
         height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -285,7 +285,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: weapons_8
+      name: shield1
       rect:
         serializedVersion: 2
         x: 17
@@ -293,7 +293,7 @@ TextureImporter:
         width: 7
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -306,15 +306,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: weapons_9
+      name: axe1
       rect:
         serializedVersion: 2
         x: 1
         y: 1
         width: 6
         height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.65, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -327,15 +327,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: weapons_10
+      name: axe2
       rect:
         serializedVersion: 2
         x: 8
         y: 1
         width: 6
         height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.65, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -348,15 +348,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: weapons_11
+      name: axe3
       rect:
         serializedVersion: 2
         x: 15
         y: 1
         width: 6
         height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.65, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -379,18 +379,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      weapons_8: -969108076
-      weapons_5: 2045357657
-      weapons_0: 1746922219
-      weapons_10: -1709356952
-      weapons_2: 1585836787
-      weapons_6: -808333511
-      weapons_1: 1455342056
-      weapons_3: 1212243937
-      weapons_7: 1732413341
-      weapons_9: 1737964342
-      weapons_4: -496447878
-      weapons_11: -1562318703
+      sword1: 1746922219
+      shield3: -496447878
+      knife1: 2045357657
+      axe3: -1562318703
+      shield1: -969108076
+      sword2: 1455342056
+      axe2: -1709356952
+      knife3: 1732413341
+      axe1: 1737964342
+      shield2: 1212243937
+      knife2: -808333511
+      sword3: 1585836787
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
